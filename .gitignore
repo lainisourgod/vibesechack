@@ -1,1 +1,5 @@
 *.log
+*.out
+*.pyc
+runs
+__pycache__
